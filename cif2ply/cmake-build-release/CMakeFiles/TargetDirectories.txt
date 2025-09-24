@@ -1,3 +1,0 @@
-/home/rmontalvao/Magellan3/Surface/cif2ply/cmake-build-release/CMakeFiles/cif2ply.dir
-/home/rmontalvao/Magellan3/Surface/cif2ply/cmake-build-release/CMakeFiles/edit_cache.dir
-/home/rmontalvao/Magellan3/Surface/cif2ply/cmake-build-release/CMakeFiles/rebuild_cache.dir

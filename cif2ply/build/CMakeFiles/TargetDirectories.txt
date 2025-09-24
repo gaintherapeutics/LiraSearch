@@ -1,3 +1,0 @@
-/home/sbray/GitRepos/SHCoeffsDev/cif2ply/build/CMakeFiles/cif2ply.dir
-/home/sbray/GitRepos/SHCoeffsDev/cif2ply/build/CMakeFiles/edit_cache.dir
-/home/sbray/GitRepos/SHCoeffsDev/cif2ply/build/CMakeFiles/rebuild_cache.dir
